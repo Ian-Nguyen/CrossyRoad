@@ -1,5 +1,7 @@
 #Read Me#
 1. Ongoing Git Portfolio
-2. Professor McCarthy. Dowload only the Crossy_Raod.zip and go into the test world.  I have gotten the randomization and the 
-dynamic part of the spawning for the road working but have not created a level yet.
+2. Professor McCarthy. Dowload only the Crossy_Raod.zip and go into the test_world.  I have gotten the randomization and the 
+dynamic part of the spawning for the grass working but have not created a level yet, if you press play and exit repeatedly you will see that 
+the props/objects will be randomly spawning and change from the previous play.  
+Additionallly the tree spacing is currently still a bit off so I will have to play with that.  
 3. The Assets.zip is already put into Unreal and they are just thereas a backed up copy.
