@@ -1,8 +1,19 @@
 #Read Me#
-1. Ongoing Git Portfolio, Added Checkpoint 2 Late b/c of issue with uploading to git, file size to big.
+ 1. Ongoing Git Portfolio
+ 2. The Assets.zip is already put into Unreal and they are just thereas a master copy.
+ 
+#5/3
+1.Added Checkpoint 2 Late b/c of issue with uploading to git, file size to big.
 2. Professor McCarthy. Dowload only the the zips that have a 53 in their name and go into the test_world.  
 I have gotten the randomization and the dynamic part of the spawning for the grass working but have not 
 created a level yet, if you press play and exit repeatedly you will see that 
 the props/objects will be randomly spawning and change from the previous play.  
 Additionallly the tree spacing is currently still a bit off so I will have to play with that.  
-3. The Assets.zip is already put into Unreal and they are just thereas a master copy.
+3. 
+
+#5/10
+1. Since file size is too big and it takes for ever for git im going to put it into a google drive link.  If there are
+any other solutions to this please let me know Professor Mccarthy.
+2. Professor McCarthy, the entire zip is linked here https://drive.google.com/open?id=183R30tePhFZYIAkfj183PrQaw2P8AbyP.
+Go into test_world and you will see that the spawning for the road and the rivers are working as generation and I am still
+setting up the gamemode.
